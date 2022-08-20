@@ -1,0 +1,45 @@
+.max_width{
+    max-width: 1900px;
+    margin: 0px auto;
+    background-color: aliceblue;
+}
+.carHeight{
+   height: 40vh;
+
+}
+.nv_font{
+    font-family: NVIDIA-NALA,Arial,Helvetica,Sans-Serif;
+}
+.tg_1{
+    font-weight: 700;
+    font-size: 30px;
+}
+.bg_clr{
+    background-color: #eeeeee;
+}
+.tg_2{
+    font-size: 20px;
+    font-weight: 400;
+}
+.head_ing{
+    font-size: 30px;
+    font-family: NVIDIA-NALA,Arial,Helvetica,Sans-Serif;
+    font-weight: 700;
+
+}
+.bi-facebook{
+    color: #eeeeee;
+}
+.dark_green{
+color:  #72b602;
+}
+.nv_btn{
+    padding: 8px 20px;
+    /* background-color: #72b602; */
+    color: white;
+}
+.nv_msg{
+    width: 24px;
+    height: 24px;
+    color: #72b602;
+}
